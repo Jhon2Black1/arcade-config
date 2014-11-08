@@ -1,0 +1,6 @@
+lvl2: 	EmulationStation - v2.0.0-rc1, built Nov  8 2014 - 03:34:28
+lvl2: 	Creating surface...
+lvl0: 	Error creating SDL window!
+	Couldn't find matching GLX visual
+lvl0: 	Renderer failed to initialize!
+lvl0: 	Window failed to initialize!
