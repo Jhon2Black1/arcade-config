@@ -1,4 +1,4 @@
-lvl2: 	EmulationStation - v2.0.0-rc1, built Nov  8 2014 - 03:34:28
+lvl2: 	EmulationStation - v2.0.0-rc1, built Nov  8 2014 - 04:16:42
 lvl2: 	Creating surface...
 lvl0: 	Error creating SDL window!
 	Couldn't find matching GLX visual
